@@ -5,7 +5,7 @@ This repository contains my personal portfolio website created as part of the co
 The website includes:
 - Home page with navigation bar
 - About Me section
-- Skills with icons
+- Skills with images
 - Project showcase
 - Recommendations with live submission feature
 
